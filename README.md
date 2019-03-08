@@ -1,0 +1,2 @@
+# Exorcises
+*Exercises
